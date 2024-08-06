@@ -1,6 +1,6 @@
 # akabin_demo
 
-A new Flutter project.
+Akabin Ekibi için tasarladığım mobil demo.
 
 ## Getting Started
 
